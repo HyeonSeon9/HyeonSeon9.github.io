@@ -6,46 +6,42 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 양현성
+title: Backend Developer
+email: a01062704312@gmail.com
+website: https://github.com/HyeonSeon9
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username:  HyeonSeon9
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+instagram_username: sheep_deny
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_content: | # this will include new lines to allow paragraphs'
+  안녕하세요. 백엔드 개발자 양현성입니다. 꾸준하게 학습하고 성장하는 중 입니다.<br>
+  효율적인 코드를 작성하는 것과 생산성을 높이는 것에 관심이 많습니다.<br>
+  
+  <strong>기술 스택<strong>
+      - 프레임워크 - <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      - 언어 - <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+      - 테스트 - <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+      - 미들웨어 - <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+      - 웹서버 - <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+      - DevOps - <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      - DB(Hibernate) - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+      - 기타 - <mark>OpenAPI Specification3</mark>, <mark>Clean Architecture</mark>, <mark>Github</mark>
+      
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
