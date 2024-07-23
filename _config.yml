@@ -47,7 +47,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 살내환경 모니터링 및 자동제어 관리 시스템
+        title: tlf내환경 모니터링 및<br> 자동제어 관리 시스템
         link: github.com/nhnacademy-aiot1-team3
         caption: 2023.09. ~ 2024.06.
         description: | # this will include new lines to allow paragraphs
