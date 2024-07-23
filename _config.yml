@@ -33,14 +33,14 @@ about_content: | # this will include new lines to allow paragraphs'
   효율적인 코드를 작성하는 것과 생산성을 높이는 것에 관심이 많습니다.<br>
   
   <strong>기술 스택<strong>
-      - 프레임워크 - <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      - 언어 - <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-      - 테스트 - <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-      - 미들웨어 - <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-      - 웹서버 - <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-      - DevOps - <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      - DB(Hibernate) - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
-      - 기타 - <mark>OpenAPI Specification3</mark>, <mark>Clean Architecture</mark>, <mark>Github</mark>
+      - 프레임워크 - <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
+      - 언어 - <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/><br>
+      - 테스트 - <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/><br>
+      - 미들웨어 - <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/><br>
+      - 웹서버 - <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br>
+      - DevOps - <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
+      - DB(Hibernate) - <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <br>
+      - 기타 - <mark>OpenAPI Specification3</mark>, <mark>Clean Architecture</mark>, <mark>Github</mark><br>
       
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
